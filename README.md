@@ -28,3 +28,4 @@
 1. php artisan migrate
 
 ## demo
+![get](demo/demo.JPG?raw=true "demo")
